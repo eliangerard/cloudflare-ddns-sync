@@ -1,0 +1,24 @@
+{
+  "name": "cloudflare-ddns-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliangerard/cloudflare-ddns-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliangerard/cloudflare-ddns-sync/issues"
+  },
+  "homepage": "https://github.com/eliangerard/cloudflare-ddns-sync#readme",
+  "dependencies": {
+    "cloudflare-ddns-sync": "^3.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
