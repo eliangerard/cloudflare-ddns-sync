@@ -1,0 +1,11 @@
+{
+    "email": "",
+    "key": "",
+    "token": "",
+    "records": [
+        {
+            "name": "test-ddns.domain.com",
+            "type": "A"
+        }
+    ]
+}
